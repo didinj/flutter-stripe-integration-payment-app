@@ -1,6 +1,6 @@
 # Flutter Stripe Integration Tutorial: Build a Payment App
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68ae818a6d6d7c34a36567d3/flutter-stripe-integration-tutorial-build-a-payment-app).
 
 A new Flutter project.
 
